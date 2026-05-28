@@ -1,6 +1,6 @@
-name: "Ccache for gh actions"
+name: "Ccache for gh actions - append-timestamp fix"
 description: "A GitHub Action that speeds up compiling for C/C++ projects using ccache."
-author: "Hendrik Muhs<hendrik.muhs@gmail.com>"
+author: "Hendrik Muhs<hendrik.muhs@gmail.com> (fix by Srykah<srykah@gmail.com>)"
 inputs:
   key:
     description: "An additional key for the cache"
